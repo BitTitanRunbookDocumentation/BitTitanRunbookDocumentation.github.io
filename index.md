@@ -1,4 +1,5 @@
-# Hello world!
+![alt text](https://blog.bittitan.com/wp-content/uploads/BitTitan_1220x300_grey.png "BitTitan Logo")
+# BitTitan Runbooks Documentation
 
 [comment]: # (Start Links)
 
