@@ -1,5 +1,0 @@
-# File 1
-
-```
-This is File 1
-```
