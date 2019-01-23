@@ -1,7 +1,1 @@
-# Active Directory
-## Add User To Groups
-### 
-```
-
-```
-
+#ActiveDirectory##AddUserToGroups###``````
