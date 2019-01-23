@@ -110,6 +110,7 @@
 - [Office365: EnableLitigationHold](pages/docs/Office365/EnableLitigationHold.html)
 - [Office 365: Force User To Sign Out](pages/docs/Office365/ForceUserToSignOut.html)
 - [Office 365: Grant Mailbox Permission](pages/docs/Office365/GrantMailboxPermission.html)
+- [Office 365: Grant Public Folder Permissions](pages/docs/Office365/GrantPublicFolderPermissions.html)
 - [Office 365: Grant Send As Permission](pages/docs/Office365/GrantSendAsPermissions.html)
 - [Office 365: Grant Send On Behalf Permission](pages/docs/Office365/GrantSendOnBehalfPermissions.html)
 - [Office 365: Import Groups into MSPComplete](pages/docs/Office365/ImportGroupsIntoMSPComplete.html)
