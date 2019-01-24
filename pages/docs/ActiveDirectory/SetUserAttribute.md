@@ -1,1 +1,18 @@
-#ActiveDirectory##SetUserAttribute###SYNOPSIS```SetsanattributewithinauserinActiveDirectory```###DESCRIPTION```SetsanattributewithinauserinActiveDirectory```###NOTES```Version:1.0Lastupdated:21November2018Copyright(c)BitTitan,Inc.Allrightsreserved.LicensedundertheMITLicense.```
+# Active Directory
+## Set User Attribute
+### SYNOPSIS
+```
+    Sets an attribute within a user in Active Directory
+```
+### DESCRIPTION
+```
+    Sets an attribute within a user in Active Directory
+```
+### NOTES
+```
+    Version: 1.0
+    Last updated: 21 November 2018
+    Copyright (c) BitTitan, Inc. All rights reserved.
+    Licensed under the MIT License.
+```
+

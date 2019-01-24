@@ -1,1 +1,18 @@
-#Office365##DeleteContacts###SYNOPSIS```DeleteOffice365contacts```###DESCRIPTION```DeleteOffice365contacts```###NOTES```Version:1.0.1Lastupdated:26November2018Copyright(c)BitTitan,Inc.Allrightsreserved.LicensedundertheMITLicense.```
+# Office 365
+## Delete Contacts
+### SYNOPSIS
+```
+    Delete Office 365 contacts
+```
+### DESCRIPTION
+```
+    Delete Office 365 contacts
+```
+### NOTES
+```
+    Version: 1.0.1
+    Last updated: 26 November 2018
+    Copyright (c) BitTitan, Inc. All rights reserved.
+    Licensed under the MIT License.
+```
+

@@ -1,1 +1,18 @@
-#Office365##RemoveUsers###SYNOPSIS```RemovesoneormoreOffice365usersfromselectedusersorinformationinaCSVstring```###DESCRIPTION```RemovesoneormoreOffice365usersfromselectedusersorinformationinaCSVstring```###NOTES```Version:1.0Lastupdated:12November2018Copyright(c)BitTitan,Inc.Allrightsreserved.LicensedundertheMITLicense.```
+# Office 365
+## Remove Users
+### SYNOPSIS
+```
+    Removes one or more Office 365 users from selected users or information in a CSV string
+```
+### DESCRIPTION
+```
+    Removes one or more Office 365 users from selected users or information in a CSV string
+```
+### NOTES
+```
+    Version: 1.0
+    Last updated: 12 November 2018
+    Copyright (c) BitTitan, Inc. All rights reserved.
+    Licensed under the MIT License.
+```
+

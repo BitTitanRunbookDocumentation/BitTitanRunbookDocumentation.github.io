@@ -1,1 +1,18 @@
-#Azure##CreateWebApplication###SYNOPSIS```Createsawebapplication```###DESCRIPTION```Createsawebapplication```###NOTES```Version:1.0Date:13August2018Copyright(c)BitTitan,Inc.Allrightsreserved.LicensedundertheMITLicense.```
+# Azure
+## Create Web Application
+### SYNOPSIS
+```
+    Creates a web application
+```
+### DESCRIPTION
+```
+    Creates a web application
+```
+### NOTES
+```
+    Version: 1.0
+    Date: 13 August 2018
+    Copyright (c) BitTitan, Inc. All rights reserved.
+    Licensed under the MIT License.
+```
+

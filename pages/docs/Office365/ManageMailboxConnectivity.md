@@ -1,1 +1,18 @@
-#Office365##ManageMailboxConnectivity###SYNOPSIS```Enables/Disablesmailboxprotocolsandinterfaces```###DESCRIPTION```Enables/Disablesmailboxprotocolsandinterfaces```###NOTES```Version:1.0Lastupdated:07November2018Copyright(c)BitTitan,Inc.Allrightsreserved.LicensedundertheMITLicense.```
+# Office 365
+## Manage Mailbox Connectivity
+### SYNOPSIS
+```
+    Enables / Disables mailbox protocols and interfaces
+```
+### DESCRIPTION
+```
+    Enables / Disables mailbox protocols and interfaces
+```
+### NOTES
+```
+    Version: 1.0
+    Last updated: 07 November 2018
+    Copyright (c) BitTitan, Inc. All rights reserved.
+    Licensed under the MIT License.
+```
+

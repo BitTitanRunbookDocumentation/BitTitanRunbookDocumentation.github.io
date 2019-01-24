@@ -1,1 +1,18 @@
-#Office365##Block/Unblockaccesstoaccount###SYNOPSIS```Blocks/Unblockssign-inaccesstoanOffice365account```###DESCRIPTION```Blocks/Unblockssign-inaccesstoanOffice365account```###NOTES```Version:1.0Lastupdated:6November2018Copyright(c)BitTitan,Inc.Allrightsreserved.LicensedundertheMITLicense.```
+# Office 365
+## Block/Unblock access to account
+### SYNOPSIS
+```
+    Blocks / Unblocks sign-in access to an Office 365 account
+```
+### DESCRIPTION
+```
+    Blocks / Unblocks sign-in access to an Office 365 account
+```
+### NOTES
+```
+    Version: 1.0
+    Last updated: 6 November 2018
+    Copyright (c) BitTitan, Inc. All rights reserved.
+    Licensed under the MIT License.
+```
+
