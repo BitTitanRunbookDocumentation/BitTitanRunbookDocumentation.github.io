@@ -1,18 +1,1 @@
-# Microsoft Teams
-## Remove Users From Team
-### SYNOPSIS
-```
-    (BETA) Removes one or more users from a team on Microsoft Teams
-```
-### DESCRIPTION
-```
-    (BETA) Removes one or more users from a team on Microsoft Teams
-```
-### NOTES
-```
-    Version: 1.0
-    Last updated: 16 November 2018
-    Copyright (c) BitTitan, Inc. All rights reserved.
-    Licensed under the MIT License.
-```
-
+#MicrosoftTeams##RemoveUsersFromTeam###SYNOPSIS```(BETA)RemovesoneormoreusersfromateamonMicrosoftTeams```###DESCRIPTION```(BETA)RemovesoneormoreusersfromateamonMicrosoftTeams```###NOTES```Version:1.0Lastupdated:16November2018Copyright(c)BitTitan,Inc.Allrightsreserved.LicensedundertheMITLicense.```

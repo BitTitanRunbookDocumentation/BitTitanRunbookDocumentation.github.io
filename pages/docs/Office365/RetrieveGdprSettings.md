@@ -1,18 +1,1 @@
-# Office 365
-## Retrieve GDPR Settings
-### SYNOPSIS
-```
-    Retrieves the Office 365 GDPR related settings as a CSV string
-```
-### DESCRIPTION
-```
-    Retrieves the Office 365 GDPR related settings as a CSV string
-```
-### NOTES
-```
-    Version: 1.0.1
-    Last updated: 7 November 2018
-    Copyright (c) BitTitan, Inc. All rights reserved.
-    Licensed under the MIT License.
-```
-
+#Office365##RetrieveGDPRSettings###SYNOPSIS```RetrievestheOffice365GDPRrelatedsettingsasaCSVstring```###DESCRIPTION```RetrievestheOffice365GDPRrelatedsettingsasaCSVstring```###NOTES```Version:1.0.1Lastupdated:7November2018Copyright(c)BitTitan,Inc.Allrightsreserved.LicensedundertheMITLicense.```

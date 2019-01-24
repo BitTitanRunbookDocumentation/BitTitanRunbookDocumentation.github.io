@@ -1,18 +1,1 @@
-# Partner Center
-## Retrieve Customers V2
-### SYNOPSIS
-```
-    Retrieves Partner Center customers as a CSV string
-```
-### DESCRIPTION
-```
-    Retrieves Partner Center customers as a CSV string
-```
-### NOTES
-```
-    Version: 2.0
-    Last updated: 3 October 2018
-    Copyright (c) BitTitan, Inc. All rights reserved.
-    Licensed under the MIT License.
-```
-
+#PartnerCenter##RetrieveCustomersV2###SYNOPSIS```RetrievesPartnerCentercustomersasaCSVstring```###DESCRIPTION```RetrievesPartnerCentercustomersasaCSVstring```###NOTES```Version:2.0Lastupdated:3October2018Copyright(c)BitTitan,Inc.Allrightsreserved.LicensedundertheMITLicense.```

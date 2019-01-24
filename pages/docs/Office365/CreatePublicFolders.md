@@ -1,18 +1,1 @@
-# Office 365
-## Create Public Folders
-### SYNOPSIS
-```
-    Create Public Folders
-```
-### DESCRIPTION
-```
-    Create Public Folders
-```
-### NOTES
-```
-    Version: 1.0
-    Last updated: 7 December 2018
-    Copyright (c) BitTitan, Inc. All rights reserved.
-    Licensed under the MIT License.
-```
-
+#Office365##CreatePublicFolders###SYNOPSIS```CreatePublicFolders```###DESCRIPTION```CreatePublicFolders```###NOTES```Version:1.0Lastupdated:7December2018Copyright(c)BitTitan,Inc.Allrightsreserved.LicensedundertheMITLicense.```

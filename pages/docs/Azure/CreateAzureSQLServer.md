@@ -1,18 +1,1 @@
-# Azure
-## Create SQL Server
-### SYNOPSIS
-```
-    Creates a sql database
-```
-### DESCRIPTION
-```
-    Creates a sql database
-```
-### NOTES
-```
-    Version: 1.1
-    Date: 01 August 2018
-    Copyright (c) BitTitan, Inc. All rights reserved.
-    Licensed under the MIT License.
-```
-
+#Azure##CreateSQLServer###SYNOPSIS```Createsasqldatabase```###DESCRIPTION```Createsasqldatabase```###NOTES```Version:1.1Date:01August2018Copyright(c)BitTitan,Inc.Allrightsreserved.LicensedundertheMITLicense.```

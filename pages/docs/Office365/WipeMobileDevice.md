@@ -1,18 +1,1 @@
-# Office 365
-## Wipe Mobile Device
-### SYNOPSIS
-```
-    Wipes an Office 365 user's Exchange ActiveSync-enabled mobile device
-```
-### DESCRIPTION
-```
-    Wipes an Office 365 user's Exchange ActiveSync-enabled mobile device
-```
-### NOTES
-```
-    Version: 1.0
-    Last updated: 30 October 2018
-    Copyright (c) BitTitan, Inc. All rights reserved.
-    Licensed under the MIT License.
-```
-
+#Office365##WipeMobileDevice###SYNOPSIS```WipesanOffice365user'sExchangeActiveSync-enabledmobiledevice```###DESCRIPTION```WipesanOffice365user'sExchangeActiveSync-enabledmobiledevice```###NOTES```Version:1.0Lastupdated:30October2018Copyright(c)BitTitan,Inc.Allrightsreserved.LicensedundertheMITLicense.```

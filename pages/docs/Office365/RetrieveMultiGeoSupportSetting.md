@@ -1,18 +1,1 @@
-# Office 365
-## Retrieve Multi-Geo Support Settings
-### SYNOPSIS
-```
-    Retrieves the Office 365 Multi-Geo support setting as a CSV string
-```
-### DESCRIPTION
-```
-    Retrieves the Office 365 Multi-Geo support setting as a CSV string
-```
-### NOTES
-```
-    Version: 1.1
-    Last updated: 20 September 2018
-    Copyright (c) BitTitan, Inc. All rights reserved.
-    Licensed under the MIT License.
-```
-
+#Office365##RetrieveMulti-GeoSupportSettings###SYNOPSIS```RetrievestheOffice365Multi-GeosupportsettingasaCSVstring```###DESCRIPTION```RetrievestheOffice365Multi-GeosupportsettingasaCSVstring```###NOTES```Version:1.1Lastupdated:20September2018Copyright(c)BitTitan,Inc.Allrightsreserved.LicensedundertheMITLicense.```

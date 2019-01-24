@@ -1,18 +1,1 @@
-# Azure
-## Create Basic Network Security Rule
-### SYNOPSIS
-```
-    Creates a network security rule
-```
-### DESCRIPTION
-```
-    Creates a network security rule
-```
-### NOTES
-```
-    Version: 1.1
-    Date: 1st August 2018
-    Copyright (c) BitTitan, Inc. All rights reserved.
-    Licensed under the MIT License.
-```
-
+#Azure##CreateBasicNetworkSecurityRule###SYNOPSIS```Createsanetworksecurityrule```###DESCRIPTION```Createsanetworksecurityrule```###NOTES```Version:1.1Date:1stAugust2018Copyright(c)BitTitan,Inc.Allrightsreserved.LicensedundertheMITLicense.```
