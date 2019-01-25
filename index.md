@@ -107,6 +107,7 @@
 - [Office 365: Delete Resource Mailbox](pages/docs/Office365/DeleteResourceMailbox.html)
 - [Office 365: Delete Shared Mailbox](pages/docs/Office365/DeleteSharedMailbox.html)
 - [Office365: DisableLitigationHold](pages/docs/Office365/DisableLitigationHold.html)
+- [Office 365: Enable/Disable Multi-Factor Authentication For Users](pages/docs/Office365/EnableDisableMultiFactorAuthenticationForUsers.html)
 - [Office365: EnableLitigationHold](pages/docs/Office365/EnableLitigationHold.html)
 - [Office 365: Force User To Sign Out](pages/docs/Office365/ForceUserToSignOut.html)
 - [Office 365: Grant Mailbox Permission](pages/docs/Office365/GrantMailboxPermission.html)
@@ -179,3 +180,5 @@
 - [Tech Data: Import Customers into MSPComplete](pages/docs/TechData/ImportCustomersIntoMSPComplete.html)
 - [Tech Data: Retrieve Products](pages/docs/TechData/RetrieveProducts.html)
 - [Twilio: SendSMS](pages/docs/Twilio/SendSMS.html)
+- [Windows: Copy Files to Remote Machines](pages/docs/Windows/CopyFilesToRemoteMachines.html)
+- [Windows: Run Executables on Remote Machines](pages/docs/Windows/RunExecutablesOnRemoteMachines.html)
