@@ -12,7 +12,7 @@
 ```
     Single-Input Scenario
         User
-            Single MSPC end user object, required
+            Single MSPComplete end user object, required
             If more than one object is provided, only the first one is used
         Licenses
             One or more license SKU IDs or SKU part numbers separated by a new line, optional
