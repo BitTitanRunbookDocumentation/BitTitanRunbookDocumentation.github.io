@@ -14,7 +14,7 @@
 ### INPUTS
 ```
     File1Name
-        A single string, in the format of <filename>.<extension>, required.
+        A single string, in the format of FILENAME.EXTENSION, required.
         Examples: report.pdf
     File1Contents
         A single string, required.
