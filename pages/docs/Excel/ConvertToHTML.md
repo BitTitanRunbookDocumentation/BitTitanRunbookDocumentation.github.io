@@ -11,7 +11,7 @@
 ### INPUTS
 ```
     ExcelWorkbook
-        Base64 encoded bytes, using [Convert]::ToBase64String((Get-Content -Encoding Byte -Path <path>))
+        Base64 encoded bytes, using [Convert]::ToBase64String((Get-Content -Encoding Byte -Path FILE_PATH))
     WorksheetName
         Single string, optional
 ```

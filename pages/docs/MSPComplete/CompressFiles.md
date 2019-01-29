@@ -2,34 +2,44 @@
 ## Compress Files
 ### SYNOPSIS
 ```
-    Compresses one or more files into a zip archive
+    Compresses up to five files into a zip archive with the option to password protect the archive
 ```
 ### DESCRIPTION
 ```
-    Compresses one or more files into a zip archive.
-    It:
-        - Creates a temporary working folder
-        - Creates copies of the files in the folder
-        - Creates a zip file containing the files to compress in the folder
+    Compresses up to five files into a zip archive with the option to password protect the archive.
+    If the file is in text format (i.e. extension with txt, csv, log, bat, dat), no encoding of the
+    file is required.
+    Otherwise if the file is not in text format, the file bytes are to be encoded in Base64.
 ```
 ### INPUTS
 ```
-    This task provides 5 pairs of File*Name and File*Contents (File1Name, File1Contents, etc...).
-    File*Name
-        Single string, in the format of 'name.extension'
-        Examples: 'report.pdf', 'spreadsheet.xlsx'
-    File*Contents
-        The Base64 encoded byte content of the file.
+    File1Name
+        A single string, in the format of <filename>.<extension>, required.
+        Examples: report.pdf
+    File1Contents
+        A single string, required.
+        If the file is in text format, this should be the text contents of the file.
+        If the file is in non-text format, the contents should be the Base64 encoded byte contents
+        of the file, using [Convert]::ToBase64String((Get-Content -Encoding Byte -Path FILE_PATH)).
+    File(X)Name - Where (X) is 2, 3, 4 or 5
+        Same as File1Name, optional
+    File(x)Contents - Where (X) is 2, 3, 4 or 5
+        Same as File1Contents, optional
+    Password
+        A single string, optional.
+        If provided, this password protects the zip archive.
 ```
 ### OUTPUTS
 ```
     ZipContents
         The Base64 encoded byte content of the zip file containing all the files to compress.
+        To convert back to a zip file, use:
+            [Convert]::FromBase64String($ZipContents) | Set-Content -Encoding Byte -Path FILE_PATH
 ```
 ### NOTES
 ```
-    Version: 1.0
-    Last updated: 26 December 2018
+    Version: 1.1
+    Last updated: 28 January 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```

@@ -89,6 +89,7 @@
 - [MSPComplete: Select Value From CSV](pages/docs/MSPComplete/SelectValueFromCSV.html)
 - [MSPComplete: Send CSV as PDF Email Attachment](pages/docs/MSPComplete/SendCsvAsPdfEmailAttachment.html)
 - [Office 365: Add/Remove Email Forwarding](pages/docs/Office365/AddRemoveEmailForwarding.html)
+- [Office 365: Add/Remove Members From Distribution Groups](pages/docs/Office365/AddRemoveMembersFromDistributionGroups.html)
 - [Office 365: Add User to Distribution Group v2](pages/docs/Office365/AddUserToDistributionGroup.html)
 - [Office 365: Add User to Unified Group](pages/docs/Office365/AddUserToUnifiedGroup.html)
 - [Office365: AssignLicense](pages/docs/Office365/AssignLicense.html)

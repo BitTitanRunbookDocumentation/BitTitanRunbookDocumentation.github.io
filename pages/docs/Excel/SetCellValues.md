@@ -40,7 +40,7 @@
     ProcessedExcelWorkbookBase64EncodedBytes
         Base64 encoded bytes
         The updated (processed) Excel workbook
-        To convert back to an Excel file, use [Convert]::FromBase64String($ExcelWorkbookBase64EncodedBytes) | Set-Content -Encoding Byte -Path <path>
+        To convert back to an Excel file, use [Convert]::FromBase64String($ExcelWorkbookBase64EncodedBytes) | Set-Content -Encoding Byte -Path FILE_PATH
     ExcelSetCellValuesCsv
         String, CSV format
         The CellValuesCsv with additional column 'SetSuccessfully' to indicate if the operation has
