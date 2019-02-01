@@ -3,6 +3,7 @@
 
 [comment]: # (StartLinks)
 
+- [Active Directory: Add/Remove Users From Groups](pages/docs/ActiveDirectory/AddRemoveUsersFromGroups.html)
 - [Active Directory: Add User To Groups](pages/docs/ActiveDirectory/AddUserToGroups.html)
 - [Active Directory: Create Distribution Group](pages/docs/ActiveDirectory/CreateDistributionGroup.html)
 - [Active Directory: Create Security Group](pages/docs/ActiveDirectory/CreateSecurityGroup.html)
@@ -84,6 +85,7 @@
 - [MSPComplete: Replace Text In Template](pages/docs/MSPComplete/ReplaceTextInTemplate.html)
 - [MSPComplete: RetrieveCustomerDomain](pages/docs/MSPComplete/RetrieveCustomerDomain.html)
 - [MSPComplete: Retrieve Customers Using Primary Domain](pages/docs/MSPComplete/RetrieveCustomersUsingPrimaryDomain.html)
+- [MSPComplete: Retrieve Groups](pages/docs/MSPComplete/RetrieveGroups.html)
 - [MSPComplete: Retrieve MX Records](pages/docs/MSPComplete/RetrieveMXRecords.html)
 - [MSPComplete: Retrieve User Property](pages/docs/MSPComplete/RetrieveUserProperty.html)
 - [MSPComplete: Select Value From CSV](pages/docs/MSPComplete/SelectValueFromCSV.html)
