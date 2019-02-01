@@ -11,17 +11,14 @@
 ```
 ### INPUTS
 ```
-    Office365AdministrativeCredentials
-        MSPComplete endpoint containing the administrative username and password for the Office 365 account
-        The OrganizationName extended property is required - it is the portion of the domain before the '.onmicrosoft.com'
-        Example: If the full domain is 'contoso.onmicrosoft.com', the OrganizationName is 'contoso'.
-    Single-input scenario:
-        UrlName
+    Usage option 1: Update the settings of a SharePoint Online site collection
+        Office365AdministrativeCredentials
+            A MSPComplete endpoint object containing the Office 365 administrative credentials, required.
+            The OrganizationName extended property is required - it is the portion of the domain before the '.onmicrosoft.com'
+            Example: If the full domain is 'contoso.onmicrosoft.com', the OrganizationName is 'contoso'.
+        Url
             Single string, required.
-        UrlPath
-            Single string, optional.
-            Possible values are 'sites' or 'teams'.
-            The default value used is 'sites' if not specified.
+            The URL of the SharePoint Online site collection
         DefaultLinkPermission
             Single string, optional.
             This sets the default link permission for the site collection.
@@ -66,12 +63,16 @@
             None - Neither the 'Allow' nor 'Block' list is used.
             AllowList - The 'Allow' list is used.
             BlockList - The 'Block' list is used.
-    Multiple-input scenario:
+    Usage option 2: Update the settings of multiple SharePoint Online site collections using a CSV
+        Office365AdministrativeCredentials
+            A MSPComplete endpoint object containing the Office 365 administrative credentials, required.
+            The OrganizationName extended property is required - it is the portion of the domain before the '.onmicrosoft.com'
+            Example: If the full domain is 'contoso.onmicrosoft.com', the OrganizationName is 'contoso'.
         SiteCollectionsCsv
             Required columns:
-                UrlName
+                Url
+                    The URL of the SharePoint Online site collection
             Optional columns:
-                UrlPath
                 DefaultLinkPermission
                 DefaultSharingLinkType
                 SharingAllowedDomains
@@ -85,13 +86,13 @@
 ```
 ### OUTPUTS
 ```
-    AllErrorMessages
+    SharePointOnlineUpdateSiteCollectionsSharingSettingsErrorMessages
         A string containing all the error messages which were generated over the course of this task.
 ```
 ### NOTES
 ```
-    Version: 1.0
-    Last updated: 27 December 2018
+    Version: 1.1
+    Last updated: 16 January 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```

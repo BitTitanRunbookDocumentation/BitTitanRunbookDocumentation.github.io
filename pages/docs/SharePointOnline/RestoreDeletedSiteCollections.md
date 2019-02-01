@@ -8,10 +8,23 @@
 ```
     Restores deleted SharePoint Online site collections from the Recycle Bin
 ```
+### INPUTS
+```
+    Office365AdministrativeCredentials
+        A MSPComplete endpoint object containing the Office 365 administrative credentials, required.
+    Urls
+        Multiple string values, separated by a newline, required.
+        The URLs of the SharePoint Online site collections to restore
+```
+### OUTPUTS
+```
+    SharePointOnlineRestoreDeletedSiteCollectionsErrorMessages
+        A string containing all the error messages which were generated over the course of this task.
+```
 ### NOTES
 ```
-    Version: 1.0
-    Last updated: 30 November 2018
+    Version: 1.0.1
+    Last updated: 16 January 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```

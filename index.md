@@ -146,6 +146,7 @@
 - [Office 365: Retrieve Subscribed SKUs](pages/docs/Office365/RetrieveSubscribedSkus.html)
 - [Office 365: Retrieve User Information](pages/docs/Office365/RetrieveUserInformation.html)
 - [Office 365: Send Email V2](pages/docs/Office365/SendEmail.html)
+- [Office 365: Set Users' Passwords](pages/docs/Office365/SetUsersPasswords.html)
 - [Office 365: Show / Hide Contacts on Address Lists](pages/docs/Office365/ShowHideContacts.html)
 - [Office 365: Update Contacts](pages/docs/Office365/UpdateContacts.html)
 - [Office 365: Update Users](pages/docs/Office365/UpdateUsers.html)
