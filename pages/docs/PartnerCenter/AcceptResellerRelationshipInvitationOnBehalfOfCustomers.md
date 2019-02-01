@@ -11,8 +11,8 @@
 ```
 ### NOTES
 ```
-    Version: 1.0.6
-    Last updated: 20 November 2018
+    Version: 1.0.7
+    Last updated: 1 February 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```
