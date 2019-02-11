@@ -23,7 +23,7 @@
             This is the group(s) which the user will be added/removed from.
             The group objects need to have a 'PrimaryEmailAddress' extended property, which is the
             group's email address in Office 365.
-        MemberUser
+        MemberUsers
             A single MSPComplete end user object, required.
             This is the user which will be added/removed from the group.
     Usage option 2: Add or remove a group as a member from one or more distribution groups
@@ -39,12 +39,44 @@
             This is the group(s) which the group will be added/removed from.
             The group objects need to have a 'PrimaryEmailAddress' extended property, which is the
             group's email address in Office 365.
-        MemberGroup
+        MemberGroups
             A single MSPComplete group object, required.
             This is the group which will be added/removed from the group.
             The group objects need to have a 'PrimaryEmailAddress' extended property, which is the
             group's email address in Office 365.
-    Usage option 3: Add or remove users or groups as members from distribution groups via CSV
+    Usage option 3: Add or remove one or more users as members from a distribution group
+        Office365AdministrativeCredentials
+            A single MSPComplete endpoint object, required.
+            It contains the Office 365 administrative credentials.
+        AddOrRemoveMember
+            A single string, required.
+            Valid values are 'add' and 'remove'.
+        DistributionGroup
+            A single MSPComplete group object, required.
+            This is the group which the user will be added/removed from.
+            The group object needs to have a 'PrimaryEmailAddress' extended property, which is the
+            group's email address in Office 365.
+        MemberUsers
+            One or more MSPComplete end user objects, required.
+            They are the users which will be added/removed from the group.
+    Usage option 4: Add or remove one or more groups as members from a distribution group
+        Office365AdministrativeCredentials
+            A single MSPComplete endpoint object, required.
+            It contains the Office 365 administrative credentials.
+        AddOrRemoveMember
+            A single string, required.
+            Valid values are 'add' and 'remove'.
+        DistributionGroup
+            A single MSPComplete group object, required.
+            This is the group which the group will be added/removed from.
+            The group object needs to have a 'PrimaryEmailAddress' extended property, which is the
+            group's email address in Office 365.
+        MemberGroups
+            One or more MSPComplete group objects, required.
+            They are the groups which will be added/removed from the group.
+            The group objects need to have a 'PrimaryEmailAddress' extended property, which is the
+            group's email address in Office 365.
+    Usage option 5: Add or remove users or groups as members from distribution groups via CSV
         Office365AdministrativeCredentials
             A single MSPComplete endpoint object, required.
             It contains the Office 365 administrative credentials.
@@ -69,8 +101,8 @@
 ```
 ### NOTES
 ```
-    Version: 1.0
-    Last updated: 10 January 2019
+    Version: 1.1
+    Last updated: 1 February 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```
