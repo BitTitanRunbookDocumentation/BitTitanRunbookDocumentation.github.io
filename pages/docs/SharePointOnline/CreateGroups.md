@@ -6,7 +6,7 @@
 ```
 ### DESCRIPTION
 ```
-    Create a group with owner for a SharePoint Online site or create groups with owners 
+    Create a group with owner for a SharePoint Online site or create groups with owners
     for SharePoint Online sites via CSV format
 ```
 ### INPUTS
@@ -37,7 +37,7 @@
                 GroupName
                     The name of the SharePoint Online group to create
                 PermissionLevels
-                    The permissions given to the group, with each permission separated by commas and 
+                    The permissions given to the group, with each permission separated by commas and
                     enclosed in quotation marks, e.g. "Contribute, Read"
                     The possible permission levels are Full Control, Design, Edit, Contribute and Read
             Optional columns:

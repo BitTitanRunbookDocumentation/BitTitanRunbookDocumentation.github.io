@@ -36,12 +36,12 @@
                 GroupName
                     The name of the group
                 Url
-                    The URL of the SharePoint Online site colllection
+                    The URL of the SharePoint Online site collection
 ```
 ### OUTPUTS
 ```
     SharePointOnlineAddUsersToGroupsProcessedUsersCsv
-        A CSV string containing the information about which users were successfully added to the 
+        A CSV string containing the information about which users were successfully added to the
         specified groups via an additional column 'AddedToGroup'.
     SharePointOnlineAddUsersToGroupsErrorMessages
         A string containing all the error messages which were generated over the course of this task.

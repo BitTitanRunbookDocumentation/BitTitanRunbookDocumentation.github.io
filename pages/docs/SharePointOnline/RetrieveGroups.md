@@ -6,7 +6,7 @@
 ```
 ### DESCRIPTION
 ```
-    Retrieves login, title, owner, users and role information in CSV format for a 
+    Retrieves login, title, owner, users and role information in CSV format for a
     group or for groups in site collections using a CSV
 ```
 ### INPUTS

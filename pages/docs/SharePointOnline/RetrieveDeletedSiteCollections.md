@@ -18,8 +18,8 @@
 ### OUTPUTS
 ```
     SharePointOnlineDeletedSiteCollectionsCsv
-        CSV containing the URL, deletion time, days remaining and storage quota information of 
-        the deleted site collections 
+        CSV containing the URL, deletion time, days remaining and storage quota information of
+        the deleted site collections
 ```
 ### NOTES
 ```

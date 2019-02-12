@@ -6,7 +6,7 @@
 ```
 ### DESCRIPTION
 ```
-    Assigns or unassigns one or more users as Site Collection Administrator for a site or assigns and 
+    Assigns or unassigns one or more users as Site Collection Administrator for a site or assigns and
     unassigns users as Site Collection Administrator for SharePoint Online sites via a CSV
 ```
 ### INPUTS
@@ -24,7 +24,7 @@
         IsSiteCollectionAdmin
             Single bool, required
             True to assign as an administrator, false to unassign
-    Usage option 2: Assigns and unassigns users as Site Collection Administrator for SharePoint 
+    Usage option 2: Assigns and unassigns users as Site Collection Administrator for SharePoint
     Online sites using a CSV
         Office365AdministrativeCredentials
             A MSPComplete endpoint object containing the Office 365 administrative credentials, required.
