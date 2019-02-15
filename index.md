@@ -98,6 +98,7 @@
 - [Office 365: Add User to Unified Group](pages/docs/Office365/AddUserToUnifiedGroup.html)
 - [Office365: AssignLicense](pages/docs/Office365/AssignLicense.html)
 - [Office 365: Assign Licenses From CSV](pages/docs/Office365/AssignLicensesFromCsv.html)
+- [Office 365: Assign Licenses to users](pages/docs/Office365/AssignLicensesToUsers.html)
 - [Office 365: Block All Incoming Mail from Domain](pages/docs/Office365/BlockAllIncomingMailFromDomain.html)
 - [Office 365: Block/Unblock access to account](pages/docs/Office365/BlockUnblockAccessToAccount.html)
 - [Office 365: Convert Mailbox to Shared Mailbox](pages/docs/Office365/ConvertMailboxToSharedMailbox.html)
