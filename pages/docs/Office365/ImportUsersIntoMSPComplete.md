@@ -13,8 +13,8 @@
 ```
 ### NOTES
 ```
-    Version: 1.2.4
-    Date: 4 January 2019
+    Version: 1.2.5
+    Date: 7 February 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```
