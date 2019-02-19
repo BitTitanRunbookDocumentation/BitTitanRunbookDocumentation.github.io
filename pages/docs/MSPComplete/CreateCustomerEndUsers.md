@@ -66,8 +66,8 @@
 ```
 ### NOTES
 ```
-    Version: 1.0
-    Date: 23 January 2019
+    Version: 1.0.1
+    Date: 13 February 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```
