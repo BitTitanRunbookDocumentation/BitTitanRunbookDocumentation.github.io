@@ -9,6 +9,7 @@
 - [Active Directory: Create Users](pages/docs/ActiveDirectory/CreateUsers.html)
 - [Active Directory: Delete Group](pages/docs/ActiveDirectory/DeleteGroup.html)
 - [Active Directory: Delete User](pages/docs/ActiveDirectory/DeleteUser.html)
+- [Active Directory: Enable/Disable User Accounts](pages/docs/ActiveDirectory/EnableDisableUserAccounts.html)
 - [Active Directory: Update Users' Attributes](pages/docs/ActiveDirectory/UpdateUsersAttributes.html)
 - [Active Directory: Wait For Group Azure AD Replication](pages/docs/ActiveDirectory/WaitForGroupAzureADReplication.html)
 - [Active Directory: Wait For User Azure AD Replication](pages/docs/ActiveDirectory/WaitForUserAzureADReplication.html)
