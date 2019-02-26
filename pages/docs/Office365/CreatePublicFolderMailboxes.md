@@ -24,13 +24,13 @@
 ```
 ### OUTPUTS
 ```
-    AllErrorMessages
+    Office365CreatePublicFolderMailboxesErrorMessages
         A string containing all the error messages which were generated over the course of this task.
 ```
 ### NOTES
 ```
-    Version: 1.0
-    Last updated: 28 December 2018
+    Version: 1.1
+    Last updated: 22 February 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```

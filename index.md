@@ -163,7 +163,7 @@
 - [Partner Center: Set Customer User's Password](pages/docs/PartnerCenter/SetCustomerUserPassword.html)
 - [Partner Center: Suspend Customer Subscriptions](pages/docs/PartnerCenter/SuspendCustomerSubscriptions.html)
 - [SharePoint Online: Add Users To Groups](pages/docs/SharePointOnline/AddUsersToGroups.html)
-- [SharePoint Online: Assign / Unassign Member as Site Collection Administrator](pages/docs/SharePointOnline/AssignUnassignMembersAsSiteCollectionAdministrator.html)
+- [SharePoint Online: Assign/Unassign Members as Site Collection Administrator](pages/docs/SharePointOnline/AssignUnassignMembersAsSiteCollectionAdministrator.html)
 - [SharePoint Online: Create Groups](pages/docs/SharePointOnline/CreateGroups.html)
 - [SharePoint Online: Create Site Collections](pages/docs/SharePointOnline/CreateSiteCollections.html)
 - [SharePoint Online: Delete Groups](pages/docs/SharePointOnline/DeleteGroups.html)
