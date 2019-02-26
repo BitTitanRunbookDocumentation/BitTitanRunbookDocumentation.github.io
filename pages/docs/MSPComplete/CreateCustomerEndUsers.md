@@ -7,8 +7,7 @@
 ### DESCRIPTION
 ```
     Creates MSPComplete customer end users.
-    The end users created can either be created in the customer in the current MSPComplete context
-    which the runbook was launched, or in other MSPComplete customers.
+    The end users will be created in the customer in the current MSPComplete context.
 ```
 ### INPUTS
 ```
@@ -22,11 +21,6 @@
         PrimaryEmailAddress
             A single string, required.
             This is the primary email address of the end user to be created.
-        Customer
-            A single MSPComplete customer object, optional.
-            If specified, the end user will be created in this customer.
-            If not specified, the end user will be created in the customer in the current MSPComplete
-            context which the runbook was launched.
         UserPrincipalName
             A single string, optional.
             This is the user principal name of the end user to be created.
@@ -45,12 +39,6 @@
                     A single string.
                     This is the primary email address of the end user to be created.
             Optional columns:
-                CustomerPrimaryDomain
-                    A single string.
-                    This is the primary domain which specifies a MSPComplete customer.
-                    If specified, the end user will be created in this customer.
-                    If not specified, the end user will be created in the customer in the current
-                    MSPComplete context which the runbook was launched.
                 UserPrincipalName
                     A single string, optional.
                     This is the user principal name of the end user to be created.
@@ -66,8 +54,8 @@
 ```
 ### NOTES
 ```
-    Version: 1.0.1
-    Date: 13 February 2019
+    Version: 2.0.0
+    Date: 19 February 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```
