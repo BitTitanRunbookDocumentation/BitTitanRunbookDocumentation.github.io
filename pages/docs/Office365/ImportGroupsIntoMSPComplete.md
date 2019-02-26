@@ -13,7 +13,7 @@
         -Dynamic distribution groups
     The member lists for distribution groups and unified groups are also imported into MSPComplete.
     In order for the distribution group and unified group members to be imported, the members first
-    have to be imported into MSPComplete as end users, using [Office 365]: Import Users into MSPComplete.
+    have to be imported into MSPComplete as end users, using [Office 365] - Import Users into MSPComplete.
 ```
 ### INPUTS
 ```
@@ -31,7 +31,7 @@
     UpdateGroups
         A single boolean value, optional, defaults to true.
         Selects whether a group should be updated in MSPComplete to match the group in Office 365,
-        if it exists in both MSPCompleted and Office 365. Updating a group consists of both updating
+        if it exists in both MSPComplete and Office 365. Updating a group consists of both updating
         the group information as well as its membership.
     DeleteGroups
         A single boolean value, optional, defaults to false.
@@ -45,8 +45,8 @@
 ```
 ### NOTES
 ```
-    Version: 1.3.0
-    Date: 16 January 2019
+    Version: 1.3.1
+    Date: 15 February 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```
