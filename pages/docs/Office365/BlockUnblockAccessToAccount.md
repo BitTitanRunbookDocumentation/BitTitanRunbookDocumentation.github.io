@@ -1,5 +1,5 @@
 # Office 365
-## Block/Unblock access to account
+## Block/Unblock Access To Account
 ### SYNOPSIS
 ```
     Blocks / Unblocks sign-in access to an Office 365 account

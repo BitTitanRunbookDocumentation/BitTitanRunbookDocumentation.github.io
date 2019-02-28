@@ -1,5 +1,5 @@
 # Office 365
-## Assign Licenses to users
+## Assign Licenses To Users
 ### SYNOPSIS
 ```
     Assigns licenses to one or more Office 365 users

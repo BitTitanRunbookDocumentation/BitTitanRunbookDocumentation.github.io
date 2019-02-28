@@ -1,5 +1,5 @@
 # Office 365
-## Show / Hide Contacts on Address Lists
+## Show/Hide Contacts In Address Lists
 ### SYNOPSIS
 ```
     Show / Hide Office 365 Contacts on Address Lists

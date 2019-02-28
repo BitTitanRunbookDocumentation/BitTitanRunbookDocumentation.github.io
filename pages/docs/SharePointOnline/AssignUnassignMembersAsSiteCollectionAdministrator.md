@@ -1,5 +1,5 @@
 # SharePoint Online
-## Assign/Unassign Members as Site Collection Administrator
+## Assign/Unassign Members As Site Collection Administrator
 ### SYNOPSIS
 ```
     Assigns or unassigns Site Collection members as Administrators

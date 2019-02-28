@@ -1,5 +1,5 @@
 # Partner Center
-## Import Customers into MSPComplete V2
+## Import Customers Into MSPComplete V2
 ### SYNOPSIS
 ```
     Imports all Partner Center customers into MSPComplete

@@ -1,5 +1,5 @@
 # Office 365
-## Import Groups into MSPComplete
+## Import Groups Into MSPComplete
 ### SYNOPSIS
 ```
     Imports all groups from an Office 365 tenant into MSPComplete

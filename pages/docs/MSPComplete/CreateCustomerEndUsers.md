@@ -1,5 +1,5 @@
 # MSPComplete
-## Create Customer End Users
+## Create Users
 ### SYNOPSIS
 ```
     Creates MSPComplete customer end users

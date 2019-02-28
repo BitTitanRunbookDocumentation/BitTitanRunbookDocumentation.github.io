@@ -1,5 +1,5 @@
 # Office 365
-## Import Users into MSPComplete
+## Import Users Into MSPComplete
 ### SYNOPSIS
 ```
     Imports all users from an Office 365 tenant into MSPComplete

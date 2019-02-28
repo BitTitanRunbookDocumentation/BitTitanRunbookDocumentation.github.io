@@ -1,5 +1,5 @@
 # SharePoint Online
-## Retrieve Users in Site Collections
+## Retrieve Users In Site Collections
 ### SYNOPSIS
 ```
     Retrieves SharePoint Online site collection users' information as a CSV string
