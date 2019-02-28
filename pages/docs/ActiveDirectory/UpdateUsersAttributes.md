@@ -16,13 +16,11 @@
 ### INPUTS
 ```
     Usage option 1: Update an attribute within a user
-        UserIdentity
-            A single string, required.
-            This identifies the user in Active Directory. The identity can be
-                - A distinguished name
-                - A GUID (objectGUID)
-                - A security identifier (objectSid)
-                - A SAM account name (sAMAccountName)
+        User
+            A single MSPComplete end user object, required.
+            This is the user in Active Directory which will receive the attribute update.
+            The user object is required have an 'OnPremisesSecurityIdentifier' extended property, which
+            corresponds to the 'objectSID' or 'SID' property on the Active Directory user.
         AttributeName
             A single string, required.
             This specifies the name of the attribute to be updated within the user.
@@ -73,8 +71,8 @@
 ```
 ### NOTES
 ```
-    Version: 1.0.1
-    Last updated: 7 February 2019
+    Version: 2.0.0
+    Last updated: 27 February 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```
