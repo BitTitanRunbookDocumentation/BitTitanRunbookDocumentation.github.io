@@ -103,6 +103,7 @@
 - [Office 365: Create Resource Mailbox](pages/docs/Office365/CreateResourceMailbox.html)
 - [Office 365: Create Shared Mailbox](pages/docs/Office365/CreateSharedMailbox.html)
 - [Office 365: Create Unified Group](pages/docs/Office365/CreateUnifiedGroup.html)
+- [Office 365: Create Users](pages/docs/Office365/CreateUsers.html)
 - [Office 365: Create Users from CSV](pages/docs/Office365/CreateUsersFromCsv.html)
 - [Office 365: Delete Contacts](pages/docs/Office365/DeleteContacts.html)
 - [Office365: DeleteDistributionGroup](pages/docs/Office365/DeleteDistributionGroup.html)
