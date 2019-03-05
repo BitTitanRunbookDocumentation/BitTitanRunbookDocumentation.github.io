@@ -41,11 +41,16 @@
             Single MSPComplete end user that corresponds to the Office 365 user to grant the permissions, required
             If more than one object is provided, only the first one is used
         PublicFolderAccessRights
-            A comma-delimited string representing the rights added to the user, required
+            One or more strings separated by a new line, required.
+            This specifies the right(s) granted to the user.
             Example (Single Permission):    ReadItems
-            Example (Multiple Permissions): ReadItems, CreateItems, DeleteOwnedItems, EditOwnedItems
+            Example (Multiple Permissions): ReadItems
+                                            CreateItems
+                                            DeleteOwnedItems
+                                            EditOwnedItems
             Example (Single Role):          Owner
-            Example (Multiple Roles):       Reviewer, Contributor
+            Example (Multiple Roles):       Reviewer
+                                            Contributor
     Usage option 2: Granting permissions for multiple users in Public Folders, using the inputs from a CSV file
         PublicFoldersCsv
             Required Columns:
@@ -58,7 +63,7 @@
 ```
 ### OUTPUTS
 ```
-    ProcessedPublicFoldersCsv
+    Office365GrantPublicFolderPermissionsCsv
         A CSV containing all the public folders which were processed by this task, as well as an additional
         column 'PublicFolderPermissionsGranted' to indicate if the permissions were granted successfully.
     Office365GrantPublicFolderPermissionsAllErrorMessages
@@ -66,8 +71,8 @@
 ```
 ### NOTES
 ```
-    Version: 1.0
-    Last updated: 15 January 2019
+    Version: 1.1
+    Last updated: 26 February 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```
