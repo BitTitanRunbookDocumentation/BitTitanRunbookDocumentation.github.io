@@ -111,6 +111,7 @@
 - [Office 365: Grant Mailbox Permission](pages/docs/Office365/GrantMailboxPermission.html)
 - [Office 365: Grant Public Folder Permissions](pages/docs/Office365/GrantPublicFolderPermissions.html)
 - [Office 365: Grant/Remove Send As Permissions](pages/docs/Office365/GrantRemoveSendAsPermissions.html)
+- [Office 365: Grant/Remove Send On Behalf Permissions](pages/docs/Office365/GrantRemoveSendOnBehalfPermissions.html)
 - [Office 365: Grant Send On Behalf Permission](pages/docs/Office365/GrantSendOnBehalfPermissions.html)
 - [Office 365: Import Groups Into MSPComplete](pages/docs/Office365/ImportGroupsIntoMSPComplete.html)
 - [Office 365: Import Users Into MSPComplete](pages/docs/Office365/ImportUsersIntoMSPComplete.html)
