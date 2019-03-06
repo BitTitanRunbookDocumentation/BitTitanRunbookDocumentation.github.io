@@ -6,7 +6,7 @@
 ```
 ### DESCRIPTION
 ```
-    Remove 'Send On Behalf' Permission for mailboxes, distribution groups and dynamic distribution groups 
+    Remove 'Send On Behalf' Permission for mailboxes, distribution groups and dynamic distribution groups
 ```
 ### NOTES
 ```

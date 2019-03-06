@@ -6,7 +6,7 @@
 ```
 ### DESCRIPTION
 ```
-    Converts a Base64 encoded Excel worksheet into HTML format as a string 
+    Converts a Base64 encoded Excel worksheet into HTML format as a string
 ```
 ### INPUTS
 ```

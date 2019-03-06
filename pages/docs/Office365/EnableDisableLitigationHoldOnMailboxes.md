@@ -20,21 +20,21 @@
             Valid values are 'enable' and 'disable' (case-insensitive).
         LitigationHoldDuration
             A single string, optional.
-            This it the number of days the mailbox will be held in litigation hold. 
-            Valid values are whole numbers greater than 0. 
+            This it the number of days the mailbox will be held in litigation hold.
+            Valid values are whole numbers greater than 0.
             If no value is provided, this will set the mailbox on litigation hold indefinitely.
     Usage option 2: Enable or disable litigation hold on one or more mailboxes via CSV
         Office365AdministrativeCredentials
             A MSPComplete endpoint object containing the Office 365 administrative credentials, required.
         LitigationHoldCsv
             Required columns:
-                UserEmailAddress
+                UserPrincipalName
                     The email address of the user.
                 EnableOrDisableLitigationHold
                     Valid values are 'enable' and 'disable' (case-insensitive).
                 LitigationHoldDuration
-                    This it the number of days the mailbox will be held in litigation hold. 
-                    Valid values are whole numbers greater than 0. 
+                    This it the number of days the mailbox will be held in litigation hold.
+                    Valid values are whole numbers greater than 0.
                     If no value is provided, this will set the mailbox on litigation hold indefinitely.
 ```
 ### OUTPUTS

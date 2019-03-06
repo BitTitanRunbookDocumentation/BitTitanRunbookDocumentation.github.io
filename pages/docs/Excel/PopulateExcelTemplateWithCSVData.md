@@ -26,7 +26,7 @@
 ```
     ExcelWorkbookBase64EncodedBytes
         Base64 encoded bytes
-        Updated Excel template in Base64 encoded. To convert back to an Excel file, use 
+        Updated Excel template in Base64 encoded. To convert back to an Excel file, use
         [Convert]::FromBase64String($ExcelWorkbookBase64EncodedBytes) | Set-Content -Encoding Byte -Path FILE_PATH
 ```
 ### NOTES
