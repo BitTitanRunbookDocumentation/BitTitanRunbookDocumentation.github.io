@@ -69,6 +69,7 @@
 - [MSPComplete: Create Group](pages/docs/MSPComplete/CreateMSPCompleteGroup.html)
 - [MSPComplete: Create Office 365 Endpoint](pages/docs/MSPComplete/CreateOffice365Endpoint.html)
 - [MSPComplete: Create TechData Endpoint](pages/docs/MSPComplete/CreateTechDataEndpoint.html)
+- [MSPComplete: Decompress Files](pages/docs/MSPComplete/DecompressFiles.html)
 - [MSPComplete: Delete User](pages/docs/MSPComplete/DeleteMSPCompleteCustomerEndUser.html)
 - [MSPComplete: Delete Group](pages/docs/MSPComplete/DeleteMSPCompleteCustomerGroup.html)
 - [MSPComplete: Filter CSV](pages/docs/MSPComplete/FilterCSV.html)
