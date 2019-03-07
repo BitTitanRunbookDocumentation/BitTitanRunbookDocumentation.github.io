@@ -1,5 +1,5 @@
 # Office 365
-## Import Users Into MSPComplete
+## Import Users Into MSPComplete V2
 ### SYNOPSIS
 ```
     Imports all users from an Office 365 tenant into MSPComplete
@@ -33,8 +33,8 @@
 ```
 ### NOTES
 ```
-    Version: 2.0.0
-    Date: 18 February 2019
+    Version: 2.1.0
+    Date: 7 March 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```

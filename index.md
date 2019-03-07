@@ -115,7 +115,7 @@
 - [Office 365: Grant/Remove Send On Behalf Permissions](pages/docs/Office365/GrantRemoveSendOnBehalfPermissions.html)
 - [Office 365: Grant Send On Behalf Permission](pages/docs/Office365/GrantSendOnBehalfPermissions.html)
 - [Office 365: Import Groups Into MSPComplete](pages/docs/Office365/ImportGroupsIntoMSPComplete.html)
-- [Office 365: Import Users Into MSPComplete](pages/docs/Office365/ImportUsersIntoMSPComplete.html)
+- [Office 365: Import Users Into MSPComplete V2](pages/docs/Office365/ImportUsersIntoMSPComplete.html)
 - [Office 365: Manage Mailbox Connectivity](pages/docs/Office365/ManageMailboxConnectivity.html)
 - [Office 365: Remove Licenses From Users](pages/docs/Office365/RemoveLicensesFromUsers.html)
 - [Office 365: Remove Mailbox Permission](pages/docs/Office365/RemoveMailboxPermission.html)
