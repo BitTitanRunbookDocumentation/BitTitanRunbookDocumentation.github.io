@@ -18,14 +18,12 @@
         A string, required.
         The CSV string containing the values from which the intended values will be extracted.
     Selection1RowIndex
-        A single string, optional.
-        This is required if Selection1ColumnName is specified.
+        A single string, required.
         This contains the string representation of the row index from which the first value will be
         extracted.
         The row indices start from 0 for the first row, 1 for the second row and so on.
     Selection1ColumnName
-        A single string, optional.
-        This is required if Selection1RowIndex is specified.
+        A single string, required.
         This is the name of the column from which the first value will be extracted.
     Selection(X)RowIndex - Where (X) is 2, 3, 4, 5
         Same as Selection1RowIndex, optional.
@@ -43,8 +41,8 @@
 ```
 ### NOTES
 ```
-    Version: 1.0.0
-    Last updated: 28 February 2019
+    Version: 1.1.0
+    Last updated: 8 March 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```
