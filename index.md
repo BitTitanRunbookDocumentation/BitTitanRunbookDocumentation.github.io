@@ -84,6 +84,7 @@
 - [MSPComplete: Retrieve MX Records](pages/docs/MSPComplete/RetrieveMXRecords.html)
 - [MSPComplete: Retrieve User Property](pages/docs/MSPComplete/RetrieveUserProperty.html)
 - [MSPComplete: Select Values From CSV](pages/docs/MSPComplete/SelectValuesFromCSV.html)
+- [MSPComplete: Transpose CSVs](pages/docs/MSPComplete/TransposeCSVs.html)
 - [Office 365: Add/Remove Email Forwarding](pages/docs/Office365/AddRemoveEmailForwarding.html)
 - [Office 365: Add/Remove Members From Distribution Groups](pages/docs/Office365/AddRemoveMembersFromDistributionGroups.html)
 - [Office 365: Add User to Unified Group](pages/docs/Office365/AddUserToUnifiedGroup.html)
