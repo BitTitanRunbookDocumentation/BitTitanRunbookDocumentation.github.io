@@ -54,7 +54,7 @@
                         - Alias
                         - Distinguished name (DN)
                         - Canonical DN
-                        - <domain name>\<account name>
+                        - DOMAIN_NAME\ACCOUNT_NAME
                         - Email address
                         - GUID
                         - LegacyExchangeDN

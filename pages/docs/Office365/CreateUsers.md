@@ -129,8 +129,8 @@
 ```
 ### NOTES
 ```
-    Version: 1.1
-    Last updated: 5 March 2019
+    Version: 1.1.1
+    Last updated: 12 March 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```
