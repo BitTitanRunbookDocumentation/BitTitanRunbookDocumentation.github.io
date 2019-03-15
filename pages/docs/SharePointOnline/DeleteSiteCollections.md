@@ -8,8 +8,7 @@
 ```
     Deletes one or more site collections in SharePoint Online.
     By default, the site collections are moved to the Recycle Bin on SharePoint Online.
-    If PermanentlyDelete is set to true, the site collections are permanently deleted from
-    the Recycle Bin as well.
+    If PermanentlyDelete is set to true, the site collections are permanently deleted from the Recycle Bin as well.
 ```
 ### INPUTS
 ```
@@ -35,15 +34,14 @@
 ### OUTPUTS
 ```
     SharePointOnlineDeleteSiteCollectionsProcessedSiteCollectionsCsv
-        A CSV string containing the information about which site collections were successfully deleted
-        via an additional column 'Deleted'.
+        A CSV string containing the information about which site collections were successfully deleted via an additional column 'Deleted'.
     SharePointOnlineDeleteSiteCollectionsErrorMessages
         A string containing all the error messages which were generated over the course of this task.
 ```
 ### NOTES
 ```
-    Version: 1.2
-    Last updated: 21 February 2019
+    Version: 1.2.1
+    Last updated: 14 March 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```

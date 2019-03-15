@@ -30,6 +30,7 @@
             The OrganizationName extended property is required - it is the portion of the domain before the '.onmicrosoft.com'
             Example: If the full domain is 'contoso.onmicrosoft.com', the OrganizationName is 'contoso'.
         UsersCsv
+            A CSV containing information about the users, groups and sites.
             Required columns:
                 PrimaryEmailAddress
                     The primary email address uniquely identifying an user
@@ -41,15 +42,14 @@
 ### OUTPUTS
 ```
     SharePointOnlineAddUsersToGroupsProcessedUsersCsv
-        A CSV string containing the information about which users were successfully added to the
-        specified groups via an additional column 'AddedToGroup'.
+        A CSV string containing the information about which users were successfully added to the specified groups via an additional column 'AddedToGroup'.
     SharePointOnlineAddUsersToGroupsErrorMessages
         A string containing all the error messages which were generated over the course of this task.
 ```
 ### NOTES
 ```
-    Version: 1.1
-    Last updated: 16 January 2019
+    Version: 1.1.1
+    Last updated: 14 March 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```

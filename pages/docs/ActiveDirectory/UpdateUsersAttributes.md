@@ -2,7 +2,7 @@
 ## Update Users' Attributes
 ### SYNOPSIS
 ```
-    (BETA) Updates attributes within users in Active Directory
+    Updates attributes within users in Active Directory
 ```
 ### DESCRIPTION
 ```
@@ -19,8 +19,7 @@
         User
             A single MSPComplete end user object, required.
             This is the user in Active Directory which will receive the attribute update.
-            The user object is required have an 'OnPremisesSecurityIdentifier' extended property, which
-            corresponds to the 'objectSID' or 'SID' property on the Active Directory user.
+            The user object is required have an 'OnPremisesSecurityIdentifier' extended property, which corresponds to the 'objectSID' or 'SID' property on the Active Directory user.
         AttributeName
             A single string, required.
             This specifies the name of the attribute to be updated within the user.
@@ -64,15 +63,14 @@
 ### OUTPUTS
 ```
     ActiveDirectoryUpdateUsersAttributesCsv
-        A CSV string containing information about the user attributes which were updated, as well as an
-        additional column 'AttributeUpdated' to indicate if the attribute was updated successfully.
+        A CSV string containing information about the user attributes which were updated, as well as an additional column 'AttributeUpdated' to indicate if the attribute was updated successfully.
     ActiveDirectoryUpdateUsersAttributesErrorMessages
         A string containing all the errors messages which were generated over the course of this task.
 ```
 ### NOTES
 ```
-    Version: 2.0.0
-    Last updated: 27 February 2019
+    Version: 2.0.1
+    Last updated: 14 March 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```

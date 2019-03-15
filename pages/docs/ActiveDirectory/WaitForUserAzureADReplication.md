@@ -22,17 +22,16 @@
             - A SAM account name (the sAMAccountName property)
     MaximumWaitTimeMinutes
         A single string, optional, defaults to "15"
-        This specifies the maximum amount of time this task will wait for the user to be replicated,
-        in minutes.
+        This specifies the maximum amount of time this task will wait for the user to be replicated, in minutes.
 ```
 ### OUTPUTS
 ```
-
+    None
 ```
 ### NOTES
 ```
-    Version: 1.0.1
-    Last updated: 28 February 2019
+    Version: 1.0.2
+    Last updated: 14 March 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```

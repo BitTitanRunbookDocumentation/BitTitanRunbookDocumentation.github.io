@@ -6,8 +6,7 @@
 ```
 ### DESCRIPTION
 ```
-    Retrieves login, title, owner, users and role information in CSV format for a
-    group or for groups in site collections using a CSV
+    Retrieves login, title, owner, users and role information in CSV format for a group or for groups in site collections using a CSV
 ```
 ### INPUTS
 ```
@@ -39,8 +38,8 @@
 ```
 ### NOTES
 ```
-    Version: 1.0.1
-    Last updated: 16 January 2019
+    Version: 1.0.2
+    Last updated: 14 March 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```

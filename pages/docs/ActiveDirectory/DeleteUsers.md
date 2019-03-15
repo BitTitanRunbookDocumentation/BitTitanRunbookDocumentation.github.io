@@ -13,8 +13,7 @@
     Users
         One or more MSPComplete end user objects, required.
         These users will be deleted from Active Directory.
-        The user objects need to have an 'OnPremisesSecurityIdentifier' extended property, which
-        corresponds to the 'objectSID' or 'SID' property on the Active Directory user.
+        The user objects need to have an 'OnPremisesSecurityIdentifier' extended property, which corresponds to the 'objectSID' or 'SID' property on the Active Directory user.
 ```
 ### OUTPUTS
 ```
@@ -23,8 +22,8 @@
 ```
 ### NOTES
 ```
-    Version: 1.0.0
-    Last updated: 27 February 2019
+    Version: 1.0.1
+    Last updated: 14 March 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```

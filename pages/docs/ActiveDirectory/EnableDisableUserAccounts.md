@@ -13,8 +13,7 @@
     Usage option 1: enables or disables one or more user accounts in Active Directory
         Users
             One or more MSPComplete end user objects, required.
-            The user objects need to have a 'OnPremisesSecurityIdentifier' extended property, which is the
-            users' identities in Active Directory.
+            The user objects need to have a 'OnPremisesSecurityIdentifier' extended property, which is the users' identities in Active Directory.
         EnableOrDisableAccount
             A single string, required, valid values are 'enable' and 'disable' (case-insensitive).
             This specifies if the user will be enabled or disabled.
@@ -37,16 +36,14 @@
 ### OUTPUTS
 ```
     ActiveDirectoryEnableDisableUserAccountsCsv
-        A CSV string containing information about the users which were enabled or disabled,
-        as well as an additional column 'UserUpdated' to indicate if the users were successfully
-        enabled or disabled.
+        A CSV string containing information about the users which were enabled or disabled, as well as an additional column 'UserUpdated' to indicate if the users were successfully enabled or disabled.
     ActiveDirectoryEnableDisableUserAccountsErrorMessages
         A string containing all the error messages which were generated over the course of this task.
 ```
 ### NOTES
 ```
-    Version: 1.0
-    Last updated: 15 February 2019
+    Version: 1.0.1
+    Last updated: 14 March 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```

@@ -2,7 +2,7 @@
 ## Create Users
 ### SYNOPSIS
 ```
-    (BETA) Creates users in Active Directory
+    Creates users in Active Directory
 ```
 ### DESCRIPTION
 ```
@@ -100,16 +100,14 @@
 ### OUTPUTS
 ```
     ActiveDirectoryCreateUsersCsv
-        A CSV containing information about the users that were created, as well as additional
-        columns 'UserCreated' to indicate if the user creation was successful, and 'UserObjectGuid'
-        which is the ObjectGUID property of the created user.
+        A CSV containing information about the users that were created, as well as additional columns 'UserCreated' to indicate if the user creation was successful, and 'UserObjectGuid' which is the ObjectGUID property of the created user.
     ActiveDirectoryCreateUsersErrorMessages
         A string containing all the error messages generated over the course of this task.
 ```
 ### NOTES
 ```
-    Version: 1.0
-    Last updated: 21 January 2019
+    Version: 1.0.1
+    Last updated: 14 February 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```

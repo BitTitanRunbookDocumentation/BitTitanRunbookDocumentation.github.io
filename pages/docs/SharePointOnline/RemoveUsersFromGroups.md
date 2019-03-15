@@ -36,15 +36,14 @@
 ### OUTPUTS
 ```
     SharePointOnlineRemovedUsersFromGroupsProcessedUsersCsv
-        A CSV string containing the information about which users were successfully removed from the
-        specified groups via an additional column 'RemovedFromGroup'.
+        A CSV string containing the information about which users were successfully removed from the specified groups via an additional column 'RemovedFromGroup'.
     SharePointOnlineRemovedUsersFromGroupsErrorMessages
         A string containing all the error messages which were generated over the course of this task.
 ```
 ### NOTES
 ```
-    Version: 1.1
-    Last updated: 16 January 2019
+    Version: 1.1.1
+    Last updated: 14 March 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```

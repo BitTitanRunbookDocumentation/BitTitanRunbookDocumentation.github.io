@@ -23,8 +23,8 @@
 ```
 ### NOTES
 ```
-    Version: 1.0.1
-    Last updated: 16 January 2019
+    Version: 1.0.2
+    Last updated: 14 March 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```

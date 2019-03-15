@@ -6,8 +6,7 @@
 ```
 ### DESCRIPTION
 ```
-    Create a group with owner for a SharePoint Online site or create groups with owners
-    for SharePoint Online sites via CSV format
+    Create a group with owner for a SharePoint Online site or create groups with owners for SharePoint Online sites via CSV format
 ```
 ### INPUTS
 ```
@@ -47,15 +46,14 @@
 ### OUTPUTS
 ```
     SharePointOnlineCreateGroupsProcessedGroupsCsv
-        A CSV string containing the information about which groups were successfully created
-        via an additional column 'Created'.
+        A CSV string containing the information about which groups were successfully created via an additional column 'Created'.
     SharePointOnlineCreateGroupsErrorMessages
         A string containing all the error messages which were generated over the course of this task.
 ```
 ### NOTES
 ```
-    Version: 1.1
-    Last updated: 16 January 2019
+    Version: 1.1.1
+    Last updated: 14 March 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```

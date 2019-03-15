@@ -6,8 +6,9 @@
 ```
 ### DESCRIPTION
 ```
-    Given data represented in CSV format, this task will populate worksheets within the provided
-    Excel workbook template. Output will be the populated Excel workbook Base64 encoded.
+    Populates a worksheet within an Excel template workbook with data specified in a CSV.
+    Given data represented in CSV format, this task will populate worksheets within the provided Excel workbook template.
+    The output will be the populated Excel template bytes encoded in Base64.
 ```
 ### INPUTS
 ```
@@ -17,10 +18,13 @@
     Csv1String
         Single string (CSV format), required
         CSV data to populate a worksheet in the provided template
-    CsvDataWorksheet1Name
-        Single string, optional
-        The name of the worksheet to populate the provided CSV data with. If no worksheet name
-        has been provided, the system will create and populate a worksheet called 'data'
+    ExcelXlsxTemplateFileUrl
+        Single string (URL), required
+        URL to the Excel template
+    CsvDataWorksheetName
+        Single string, optional.
+        The name of the worksheet to populate the provided CSV data with.
+        If no worksheet name has been provided, the system will create and populate a worksheet called 'data'
     Csv(X)String - Where (X) is 2, 3, 4 or 5
         Same as Csv1String, optional
     CsvDataWorksheet(X)Name - Where (X) is 2, 3, 4 or 5
@@ -30,8 +34,8 @@
 ```
     ExcelWorkbookBase64EncodedBytes
         Base64 encoded bytes
-        Updated Excel template in Base64 encoded. To convert back to an Excel file, use
-        [Convert]::FromBase64String($ExcelWorkbookBase64EncodedBytes) | Set-Content -Encoding Byte -Path FILE_PATH
+        Updated Excel template in Base64 encoded bytes.
+        To convert back to an Excel file, use [Convert]::FromBase64String($ExcelWorkbookBase64EncodedBytes) | Set-Content -Encoding Byte -Path FILE_PATH
 ```
 ### NOTES
 ```
