@@ -8,6 +8,7 @@
 ```
     Imports all users from an Office 365 tenant into MSPComplete.
     The users will be imported into the current MSPComplete customer in context.
+    Both licensed and unlicensed users are imported.
 ```
 ### INPUTS
 ```
@@ -33,8 +34,8 @@
 ```
 ### NOTES
 ```
-    Version: 2.1.0
-    Date: 7 March 2019
+    Version: 2.2.0
+    Date: 12 March 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```
