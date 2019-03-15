@@ -67,9 +67,6 @@
                 UserPrincipalName
                     Single string, required.
                     This is the user principal name for the new user.
-                Password
-                    Single string, required.
-                    This is the password for the new user.
             Optional columns:
                 FirstName
                     Single string, optional.
@@ -83,6 +80,9 @@
                 EmailAddress
                     Single string, optional.
                     This is the email address for the new user.
+                Password
+                    Single string, optional.
+                    This is the password for the new user.
                 Department
                     Single string, optional.
                     This is the department for the new user.
@@ -106,8 +106,8 @@
 ```
 ### NOTES
 ```
-    Version: 1.0.1
-    Last updated: 14 February 2019
+    Version: 1.1.0
+    Last updated: 14 March 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```
