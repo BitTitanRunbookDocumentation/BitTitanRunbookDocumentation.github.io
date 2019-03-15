@@ -2,25 +2,29 @@
 ## Populate Excel Template with CSV Data
 ### SYNOPSIS
 ```
-    Populates a worksheet within an Excel template workbook with data specified in a CSV
+    Populates worksheets within an Excel template workbook with data specified in CSVs
 ```
 ### DESCRIPTION
 ```
-    Given data represented in CSV format, this task will download a specified Excel template
-    and populate a worksheet. Output will be the populated Excel template in Base64 encoded.
+    Given data represented in CSV format, this task will populate worksheets within the provided
+    Excel workbook template. Output will be the populated Excel workbook Base64 encoded.
 ```
 ### INPUTS
 ```
-    CsvString
+    ExcelXlsxTemplateBase64EncodedBytes
+        Base64 encoded bytes, required
+        Excel template encoded in Base64 format
+    Csv1String
         Single string (CSV format), required
         CSV data to populate a worksheet in the provided template
-    ExcelXlsxTemplateFileUrl
-        Single string (URL), required
-        URL to the Excel template
-    CsvDataWorksheetName
-        Single string, optional.
+    CsvDataWorksheet1Name
+        Single string, optional
         The name of the worksheet to populate the provided CSV data with. If no worksheet name
         has been provided, the system will create and populate a worksheet called 'data'
+    Csv(X)String - Where (X) is 2, 3, 4 or 5
+        Same as Csv1String, optional
+    CsvDataWorksheet(X)Name - Where (X) is 2, 3, 4 or 5
+        Same as CsvDataWorksheet1Name, optional
 ```
 ### OUTPUTS
 ```
@@ -31,8 +35,8 @@
 ```
 ### NOTES
 ```
-    Version: 1.0.1
-    Last updated: 25 January 2019
+    Version: 2.0.0
+    Last updated: 14 March 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```
