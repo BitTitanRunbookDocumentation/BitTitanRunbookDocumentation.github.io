@@ -33,7 +33,7 @@
                 IsSiteCollectionAdmin
                     Either 'true' to assign user as an administrator or 'false' to unassign
 ```
-### OUTPUT
+### OUTPUTS
 ```
     SharePointOnlineAssignUnassignMembersAsSiteCollectionAdministratorProcessedUsersCsv
         A CSV string containing the information about which users were successfully assigned or unassigned via an additional column 'Updated'.
@@ -42,8 +42,8 @@
 ```
 ### NOTES
 ```
-    Version: 1.2.1
-    Last updated: 14 March 2019
+    Version: 1.2.2
+    Last updated: 16 March 2019
     Copyright (c) BitTitan, Inc. All rights reserved.
     Licensed under the MIT License.
 ```
